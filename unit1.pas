@@ -132,6 +132,8 @@ suma:=strtoint(edit2.text);
  edit1.clear;
  edit2.clear;
 
+
+
  {if suma = 70 then begin
                      pole[i+1].meno:=meno;
                      pole[i+1].suma:=suma;
